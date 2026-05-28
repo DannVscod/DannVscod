@@ -5,7 +5,7 @@
 <h3>Desenvolvedor de Software | Analista de Sistemas</h3>
 
 <p>
-Desenvolvimento de aplicações, arquitetura de software, integrações corporativas, APIs, banco de dados e soluções em nuvem.
+Desenvolvimento de aplicações, arquitetura de software, Automatização, integrações corporativas, APIs, banco de dados e soluções em nuvem.
 </p>
 
 </div>
@@ -66,7 +66,7 @@ Desenvolvimento de aplicações, arquitetura de software, integrações corporat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,typescript,html,css,dotnet,azure,docker,git,github,postgres,mysql,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,css,dotnet,azure,docker,git,github,postgres,mysql,php,Microsoft 365"/>
 
 </div>
 
