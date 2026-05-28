@@ -107,12 +107,11 @@ Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluçõ
 - Docker
 - CI/CD
 
-### Arquitetura e Qualidade
+### Arquitetura
 
 - SOLID
 - Clean Architecture
 - Design Patterns
-- Boas Práticas de Desenvolvimento
 - Levantamento e Análise de Requisitos
 
 </details>
