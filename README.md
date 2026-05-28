@@ -5,7 +5,7 @@
 <h3>Desenvolvedor de Software | Analista de Sistemas</h3>
 
 <p>
-Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluções • Integrações Corporativas • Cloud Computing
+Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluções • Integrações Corporativas • Cloud Computing • A Inteligência Artificial (IA)
 </p>
 
 <p>
