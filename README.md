@@ -8,10 +8,6 @@
 Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluções • Integrações Corporativas • Cloud Computing • Inteligência Artificial (IA)
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=DannVscod&style=for-the-badge" />
-</p>
-
 </div>
 
 ---
