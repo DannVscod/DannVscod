@@ -1,11 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Dan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=DANRLEY%20ARA%C3%9AJO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h3>Desenvolvedor de Software | Analista de Sistemas</h3>
 
 <p>
-Desenvolvimento de aplicações, arquitetura de software, Automatização, integrações corporativas, APIs, banco de dados e soluções em nuvem.
+Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluções • Integrações Corporativas • Cloud Computing
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=DannVscod&style=for-the-badge" />
 </p>
 
 </div>
@@ -14,13 +18,13 @@ Desenvolvimento de aplicações, arquitetura de software, Automatização, integ
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&pause=2000&center=true&vCenter=true&width=800&lines=Desenvolvimento+de+Software;An%C3%A1lise+de+Sistemas;Arquitetura+de+Solu%C3%A7%C3%B5es;Integra%C3%A7%C3%B5es+Corporativas;Cloud+e+Banco+de+Dados" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=2500&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software;Analista+de+Sistemas;Arquitetura+de+Solu%C3%A7%C3%B5es;Integra%C3%A7%C3%B5es+Corporativas;Cloud+Computing;Python+%7C+.NET+%7C+Azure+%7C+SQL" />
 
 </div>
 
 ---
 
-## Métricas
+# Métricas
 
 <div align="center">
 
@@ -32,7 +36,7 @@ Desenvolvimento de aplicações, arquitetura de software, Automatização, integ
 
 ---
 
-## Atividade
+# Atividade
 
 <div align="center">
 
@@ -42,7 +46,7 @@ Desenvolvimento de aplicações, arquitetura de software, Automatização, integ
 
 ---
 
-## Sequência de Contribuições
+# Sequência de Contribuições
 
 <div align="center">
 
@@ -52,37 +56,83 @@ Desenvolvimento de aplicações, arquitetura de software, Automatização, integ
 
 ---
 
-## Conquistas
+# Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DannVscod&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DannVscod"/>
 
 </div>
 
 ---
 
-## Tecnologias
+# Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,css,dotnet,azure,docker,git,github,postgres,mysql,php,Microsoft 365"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,php,css,dotnet,azure,docker,git,github,postgres,mysql"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 </div>
 
 ---
 
-## Dashboard
+# Competências
 
-<div align="center">
+<details>
+<summary><b>Visualizar</b></summary>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DannVscod"/>
+<br>
 
-</div>
+### Desenvolvimento
+
+- Aplicações Web
+- Sistemas Corporativos
+- APIs REST
+- Integrações entre Sistemas
+- Microsserviços
+
+### Banco de Dados
+
+- SQL Server
+- PostgreSQL
+- MySQL
+- Modelagem de Dados
+- Otimização de Consultas
+
+### Cloud & DevOps
+
+- Microsoft Azure
+- GitHub Actions
+- Docker
+- CI/CD
+
+### Arquitetura e Qualidade
+
+- SOLID
+- Clean Architecture
+- Design Patterns
+- Boas Práticas de Desenvolvimento
+- Levantamento e Análise de Requisitos
+
+</details>
 
 ---
 
-## Estatísticas Avançadas
+# Estatísticas Avançadas
 
 <div align="center">
 
@@ -94,35 +144,7 @@ Desenvolvimento de aplicações, arquitetura de software, Automatização, integ
 
 ---
 
-## Projetos e Competências
-
-<details>
-<summary>Expandir</summary>
-
-### Desenvolvimento
-- Sistemas Web
-- APIs REST
-- Integrações
-- Microsserviços
-
-### Banco de Dados
-- SQL Server
-- PostgreSQL
-- MySQL
-
-### Cloud
-- Azure
-- CI/CD
-- GitHub Actions
-
-### Arquitetura
-- Clean Architecture
-- SOLID
-- Design Patterns
-
-</details>
-
----
+# Contribuições
 
 <div align="center">
 
@@ -134,6 +156,6 @@ Desenvolvimento de aplicações, arquitetura de software, Automatização, integ
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
 
 </div>
