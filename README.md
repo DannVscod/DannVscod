@@ -22,19 +22,6 @@ Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluçõ
 
 </div>
 
----
-
-# Métricas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DannVscod&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannVscod&layout=compact&hide_border=true"/>
-
-</div>
-
----
 
 # Atividade
 
