@@ -112,20 +112,6 @@ Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluçõ
 
 </details>
 
----
-
-# Estatísticas Avançadas
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DannVscod"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DannVscod"/>
-
-</div>
-
----
-
 # Contribuições
 
 <div align="center">
