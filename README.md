@@ -29,14 +29,6 @@ Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluçõ
 
 ---
 
-# Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DannVscod&hide_border=true"/>
-
-</div>
-
 
 # Tecnologias
 
