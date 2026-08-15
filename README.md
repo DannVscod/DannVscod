@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=DANRLEY%20ARA%C3%9AJO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h3>Desenvolvedor de Software | Analista de Sistemas</h3>
+<h3>Engenheiro de software</h3>
 
 <p>
 Desenvolvimento de Software • Análise de Sistemas • Arquitetura de Soluções • Integrações Corporativas • Cloud Computing • Inteligência Artificial (IA)
